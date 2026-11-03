@@ -1,6 +1,6 @@
 # Session 1: Soil pushes, the wall must not slide or tip
 
-[Session 1 — हिन्दी](README.hi.md)
+[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ml.md)
 
 *Level 1 (conceptual interactive model) · about 60 minutes · openretainingwall*
 
